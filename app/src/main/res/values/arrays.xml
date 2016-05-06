@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_textsize_values">
+        <item>14</item>
+        <item>20</item>
+        <item>28</item>
+    </string-array>
+
+    <string-array name="pref_textsize_entries">
+        <item>"Small"</item>
+        <item>"Medium"</item>
+        <item>"Large"</item>
+    </string-array>
+
+    <string-array name="browse_sortby">
+        <item>title</item>
+        <item>author</item>
+        <item>rating</item>
+    </string-array>
+
+</resources>
